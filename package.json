@@ -1,5 +1,5 @@
 {
-  "name": "static-resource",
+  "name": "lg-static-resource",
   "version": "1.0.0",
   "description": "",
   "preferGlobal": true,
@@ -14,7 +14,7 @@
     "digest"
   ],
   "bin": {
-    "rsd": "bin/rsd"
+    "lg-static-resource": "bin/lgrsd"
   },
   "author": "",
   "license": "ISC",
