@@ -14,7 +14,7 @@
     "digest"
   ],
   "bin": {
-    "lg-static-resource": "bin/lgrsd"
+    "lgrsd": "bin/lgrsd"
   },
   "author": "",
   "license": "ISC",
