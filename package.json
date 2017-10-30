@@ -1,6 +1,6 @@
 {
   "name": "lgrsd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "preferGlobal": true,
   "main": "index.js",
