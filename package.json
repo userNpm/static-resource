@@ -1,0 +1,35 @@
+{
+  "name": "static-resource",
+  "version": "1.0.0",
+  "description": "",
+  "preferGlobal": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "static",
+    "resource",
+    "digest"
+  ],
+  "bin": {
+    "rsd": "bin/rsd"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fis": "1.9.34",
+    "fis-optimizer-html-minifier": "0.0.9",
+    "fis-parser-coffee-script": "0.0.2",
+    "fis-parser-ejs": "0.0.1",
+    "fis-parser-handlebars": "0.0.1",
+    "fis-parser-handlebars-3.x": "0.0.1",
+    "fis-parser-jade": "^0.0.12",
+    "fis-parser-less": "*",
+    "fis-parser-marked": "0.0.6",
+    "fis-parser-node-sass": "*",
+    "jade": "^1.11.0",
+    "scrat-parser-stylus": "0.0.4"
+  }
+}
