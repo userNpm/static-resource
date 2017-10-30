@@ -8,14 +8,14 @@
 使用 [nodejs](http://nodejs.org/) 随带的 [npm](https://www.npmjs.org/) 包管理工具进行安装：
 
 ```bash
-npm install -g lg-static-resource
+npm install -g lgrsd
 ```
 
 ## 第二步：创建项目
 
 ```bash
-mkdir rsd-project
-cd rsd-project
+mkdir lgrsd-project
+cd rlgrsd-project
 ```
 
 在项目根目录下创建一个空的 ``fis-conf.js`` 文件，空着就行。
