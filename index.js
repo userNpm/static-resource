@@ -1,6 +1,6 @@
 var fis = module.exports = require('fis');
-fis.require.prefixes = [ 'lgrsd', 'scrat', 'fis' ];
-fis.cli.name = 'lgrsd';
+fis.require.prefixes = [ 'rsd', 'scrat', 'fis' ];
+fis.cli.name = 'rsd';
 fis.cli.info = fis.util.readJSON(__dirname + '/package.json');
 
 fis.cli.help.commands = [ 'release', 'server' ];

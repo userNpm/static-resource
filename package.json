@@ -1,5 +1,5 @@
 {
-  "name": "lgrsd",
+  "name": "rsd",
   "version": "1.0.3",
   "description": "",
   "preferGlobal": true,
@@ -18,7 +18,7 @@
     "digest"
   ],
   "bin": {
-    "lgrsd": "bin/lgrsd"
+    "rsd": "bin/rsd"
   },
   "author": "",
   "license": "MIT",
